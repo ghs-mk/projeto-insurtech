@@ -10,7 +10,7 @@ O projeto inclui **pipeline completo de dados + modelos + app interativo** para 
 
 # 🎥 Demonstração do App
 
-![App Demo](images/app_demo.gif)
+![App Demo](docs/images/app_demo.gif)
 
 O aplicativo permite inserir o perfil de um beneficiário e obter:
 
